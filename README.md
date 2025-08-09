@@ -1,4 +1,4 @@
-# Clinical Trial Patient Matching & Form Generation
+# Clinical Trial Patient Matching
 
 Este projeto faz parte da pesquisa de mestrado em Ciência da Computação, com foco em **extração de informações de protocolos clínicos** e **correspondência de pacientes elegíveis** usando **Processamento de Linguagem Natural (NLP)** e **Modelos de Linguagem de Grande Escala (LLMs)**.
 
@@ -6,6 +6,7 @@ Este projeto faz parte da pesquisa de mestrado em Ciência da Computação, com 
 Desenvolver uma solução que automatize a leitura de **protocolos clínicos** (ClinicalTrials.gov) e a **extração de critérios de elegibilidade**, gerando **formulários eletrônicos** otimizados e permitindo o **ranqueamento de pacientes** a partir de bancos de dados clínicos estruturados (ex.: MIMIC-IV).
 
 ## Estrutura do Projeto
+```
 clinicaltrials-ia-thesis/
 │
 ├── data/                # Dados brutos ou processados (não subir dados sensíveis)
@@ -25,6 +26,7 @@ clinicaltrials-ia-thesis/
 ├── requirements.txt     # Dependências do projeto
 ├── README.md            # Descrição do projeto
 └── .gitignore           # Arquivos e pastas para ignorar
+```
 
 ## Tecnologias e Ferramentas
 - **Python 3.10+**
@@ -55,3 +57,6 @@ clinicaltrials-ia-thesis/
 - **Cobertura de Critérios**
 - **Taxa de Correspondência Correta de Pacientes**
 - **Avaliação por Especialistas (validação médica)**
+
+## Contato
+Para mais informações ou dúvidas, entre em contato: email: mclara.castro@hotmail.com
